@@ -21,8 +21,8 @@ Follow these instructions to get the project up and running on your local machin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/asharhere/spotifyclone.git
-   cd spotifyclone
+   git clone https://github.com/asharhere/spotifyClone.git
+   cd spotifyClone
    ```
 
 2. **Open `index.html` in Your Browser:**
